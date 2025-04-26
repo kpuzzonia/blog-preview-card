@@ -37,8 +37,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/kpuzzonia/blog-preview-card](https://github.com/kpuzzonia/blog-preview-card)
+- Live Site URL: [https://kpuzzonia.github.io/blog-preview-card/](https://kpuzzonia.github.io/blog-preview-card/)
 
 ## My process
 
