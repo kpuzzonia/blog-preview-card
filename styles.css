@@ -15,10 +15,20 @@ body {
 .blog-card {
     background-color: hsl(0, 0%, 100%);
     margin: auto;
-    padding: 15px;
+    padding: 24px;
+    max-height: 522px;
+    min-height: 327px;
+    max-width: 384px;
+    min-width: 327px;
+    display: flex;
+    flex-direction: column;
+    border-radius: 20px;
 }
-
 
 .blog-card .emphasis {
     font-weight: bold;
+}
+
+figure img {
+    border-radius: 10px;
 }
