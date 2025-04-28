@@ -1,5 +1,6 @@
 /* the following styliing was provided by Frontend Mentor */
 .attribution { 
+    margin-top: 20px;
     font-size: 11px; text-align: center; 
 }
 
@@ -23,6 +24,8 @@ body {
     display: flex;
     flex-direction: column;
     border-radius: 20px;
+    border: solid 1px hsl(0, 0%, 7%);
+    box-shadow: 8px 8px black;
 }
 
 .blog-card .emphasis {
@@ -31,4 +34,19 @@ body {
 
 figure img {
     border-radius: 10px;
+}
+
+header .topic {
+    background-color:hsl(47, 88%, 63%);
+    border-radius: 4px;
+    padding: 4px 12px;
+}
+
+.title a {
+    text-decoration: none;
+    color: hsl(0, 0%, 7%);
+}
+
+.title a:hover {
+    color:hsl(47, 88%, 63%);
 }
