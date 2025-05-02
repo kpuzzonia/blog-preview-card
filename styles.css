@@ -9,6 +9,7 @@
 }
 
 /* all styling below this coment was done by Kari Puzzonia */
+
 body {
     background-color: hsl(47, 88%, 63%);
 }
@@ -18,14 +19,18 @@ body {
     margin-left: auto;
     margin-right: auto;
     padding: 24px;
-    height: 522px;
-    width: 384px;
+    height: 502px;
+    width: 334px;
     display: flex;
     flex-direction: column;
     border-radius: 20px;
     border: solid 1px hsl(0, 0%, 7%);
     box-shadow: 8px 8px black;
     font-family: 'Figtree', sans-serif;
+}
+
+figure {
+    margin: 0px;
 }
 
 .main-image {
@@ -54,6 +59,7 @@ header .topic {
     font-size: 16px;
     color: hsl(0, 0%, 42%);
 }
+
 
 footer p {
     font-weight: 800;
