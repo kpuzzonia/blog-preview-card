@@ -18,10 +18,8 @@ body {
     margin-left: auto;
     margin-right: auto;
     padding: 24px;
-    max-height: 522px;
-    min-height: 327px;
-    max-width: 384px;
-    min-width: 327px;
+    height: 522px;
+    width: 384px;
     display: flex;
     flex-direction: column;
     border-radius: 20px;
@@ -30,8 +28,9 @@ body {
     font-family: 'Figtree', sans-serif;
 }
 
-
-figure img {
+.main-image {
+    height: 200px;
+    width: 336px;
     border-radius: 10px;
 }
 
@@ -58,4 +57,13 @@ header .topic {
 
 footer p {
     font-weight: 800;
+}
+
+.profile-pic {
+    vertical-align: middle;
+}
+
+.name {
+    vertical-align: middle;
+    padding-left: 8px;
 }
